@@ -1,0 +1,7 @@
+__pycache__
+
+examples/
+experiments/
+students/
+
+.DS_Store
