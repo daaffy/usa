@@ -1,7 +1,10 @@
 __pycache__
 
-examples/
+# examples/
 experiments/
 students/
 
 .DS_Store
+
+*.nii.gz
+*.vol

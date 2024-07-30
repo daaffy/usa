@@ -1,0 +1,5 @@
+pandas
+SimpleITK
+scipy
+numpy
+matplotlib
