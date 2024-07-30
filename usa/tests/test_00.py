@@ -2,3 +2,4 @@
 
 from usa.analysis import *
 
+print("hi!")
