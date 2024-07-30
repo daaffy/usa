@@ -4,9 +4,9 @@ from usa.analysis.fmbv import fmbv_v0 as fmbv
 
 def test(zoom = 1.):
 
-    PD_PATH = "wl1_12_dp.nii.gz"
-    SEG_PATH = "wl1_12_seg.nii.gz"
-    KRETZ_PATH = "wl1_12.vol"
+    PD_PATH = "usa/data/wl1_12_dp.nii.gz"
+    SEG_PATH = "usa/data/wl1_12_seg.nii.gz"
+    KRETZ_PATH = "usa/data/wl1_12.vol"
 
     us = GE_US(minimise_memory=False)
     us.load_kretz(KRETZ_PATH)
