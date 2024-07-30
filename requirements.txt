@@ -1,5 +1,5 @@
 pandas
-SimpleITK
+# SimpleITK # install using `pip install simpleitk`
 scipy
 numpy
 matplotlib
