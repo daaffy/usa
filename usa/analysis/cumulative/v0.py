@@ -15,7 +15,7 @@ class VisualiseTwoTangent(dict):
   
 def two_tangent_standardisation(
         pd_data : np.ndarray,
-        pd_low_threshold : np.float,
+        pd_low_threshold : np.float64,
         visualise = False, 
         verbose = False
         ):
