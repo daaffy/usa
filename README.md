@@ -4,8 +4,8 @@
 
 ## Install
 First create a virtual environment. \
-'conda create --name usa --file requirements.txt' \
-'conda activate usa' \
-Then install in an editable state: 'pip install -e .'. Run 'usa/tests/test_00.py' to check that importing works.
+`conda create --name usa --file requirements.txt` \
+`conda activate usa` \
+Then install in an editable state: `pip install -e .`. Run `usa/tests/test_00.py` to check that importing works.
 
 <!-- Add examples/fmbv README.md. Link from main README.md. -->
